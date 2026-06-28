@@ -1,19 +1,6 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
 <h3 align="center">Software Engineer | AI/ML & Full-Stack Systems | MS CS @ SUNY Binghamton</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshinarvekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:snarvekar@binghamton.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshinarvekar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### About Me
@@ -21,11 +8,9 @@
 - 🎓 MS in Computer Science at SUNY Binghamton (GPA 3.65/4.0)
 - 🇮🇳 BS in Computer Science, University of Mumbai (GPA 3.8/4.0)
 - 🔬 Currently an **AI Research Assistant** at SUNY Binghamton, working on multi-agent LLM systems and RAG pipelines
-- 💼 Previously a **Software Engineer Intern** at Global Health Impact, building forecasting tools used across 200+ countries
+- 💼 Previously a **Software Engineer Intern** at Global Health Impact Project, building forecasting tools used to measure impact of drug regimens across 200+ countries
 - 🛠️ Comfortable across the stack — from React/Node frontends to Spring Boot/Flask backends to PyTorch/Hugging Face ML pipelines
 - 📍 Based in Sunnyvale, California
-- 🟢 **Open to SDE opportunities** — feel free to reach out!
-
 ---
 
 ### 🔬 Current Work — AI Research Assistant, SUNY Binghamton
@@ -115,11 +100,46 @@ Web-based e-learning platform with RBAC dashboards, automated grading, and real-
 </p>
 
 ---
+
 ### 📜 Certifications
 
-- **Python Programming** — Coursera: Python fundamentals, OOP, and libraries with hands-on projects
-- **Python Sentiment Analysis** — Applied NLP techniques to classify large-scale Amazon Alexa reviews
-- **Power BI Certification** — Data modeling, cleaning, analysis, and interactive dashboards/reports
+- **[Microsoft Azure AI Essentials Professional Certificate](https://www.linkedin.com/learning/certificates/7c37eb4ae0bf8a303c1e206eb04dc2c4d0cacc89097e038cb885cf37acc3b3e1/)**<br>
+  Issued by Microsoft & LinkedIn · June 2026<br>
+  Skills: Machine Learning, Generative AI
+
+- **[Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/records/UMBTXIYHJYTS)**<br>
+  Issued by Google (Coursera) · October 2025 · ID: `UMBTXIYHJYTS`<br>
+  Skills: Cybersecurity, Security Frameworks
+
+- **[Power BI Certification](https://drive.google.com/file/d/18g8qBGTynfobjGenrBqrCtgQ8LXE_2oN/view?usp=sharing)**<br>
+  Issued by Microsoft<br>
+  Skills: Data Modeling, Data Cleaning, Dashboard Design, Reporting
+
+- **Python Sentiment Analysis**<br>
+  Skills: NLP, Sentiment Classification
+
+- **Python Programming**<br>
+  Skills: Python, OOP, Libraries
 
 ---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sakshinarvekar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sakshinarvekar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:snarvekar@binghamton.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshinarvekar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <p align="center"><i>Thanks for stopping by! 🙂</i></p>
