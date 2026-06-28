@@ -89,18 +89,6 @@ Web-based e-learning platform with RBAC dashboards, automated grading, and real-
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshinarvekar&show_icons=true&theme=default&hide_border=true" alt="Sakshi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshinarvekar&hide_border=true" alt="Sakshi's GitHub Streak" />
-</p>
-
----
-
 ### 📜 Certifications
 
 - **[Microsoft Azure AI Essentials Professional Certificate](https://www.linkedin.com/learning/certificates/7c37eb4ae0bf8a303c1e206eb04dc2c4d0cacc89097e038cb885cf37acc3b3e1/)**<br>
